@@ -1,4 +1,3 @@
-# Stellar-classification-using-ML-Models
 # Star Classification Using Machine Learning
 
 A machine learning project that compares multiple classification algorithms for predicting stellar categories using astronomical data. The project investigates how different supervised learning models perform on star classification tasks after preprocessing, feature encoding, and normalization.
