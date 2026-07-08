@@ -6,6 +6,9 @@ A machine learning project that compares multiple classification algorithms for 
 
 Astronomical datasets often contain complex relationships between stellar attributes such as temperature, luminosity, radius, color, and spectral class. This project applies several machine learning algorithms and evaluates their effectiveness in classifying stars into different categories.
 
+<img width="713" height="541" alt="image" src="https://github.com/user-attachments/assets/bd18fb01-c3bf-4ef7-b8e8-776b38e6dba5" />
+
+
 ## Dataset Features
 
 * Temperature
@@ -14,6 +17,9 @@ Astronomical datasets often contain complex relationships between stellar attrib
 * Absolute Magnitude (A_M)
 * Color
 * Spectral Class
+
+<img width="665" height="238" alt="image" src="https://github.com/user-attachments/assets/88aab3c2-eb1a-480f-b803-ac08d018560f" />
+
 
 ## Data Preprocessing
 
